@@ -92,6 +92,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Selim Sercan ÇINAR - [@ssercanc]([https://twitter.com/your_twitter](https://www.linkedin.com/in/ssercanc/))
-
 Project Link: [https://github.com/unknown1fsh/sms-sender](https://github.com/unknown1fsh/sms-sender)
