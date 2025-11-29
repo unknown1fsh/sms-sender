@@ -288,12 +288,7 @@ Katkılarınızı bekliyoruz! Lütfen şu adımları izleyin:
 
 ## 📞 İletişim
 
-**Ali Cinar**
-
-- Email: ali@cinargarage.com
-- GitHub: [@cinargarage](https://github.com/cinargarage)
-- Website: https://github.com/cinargarage
-
+github
 ---
 
 <div align="center">
@@ -591,11 +586,7 @@ Contributions are welcome! Please follow these steps:
 
 ## 📞 Contact
 
-**Ali Cinar**
-
-- Email: ali@cinargarage.com
-- GitHub: [@cinargarage](https://github.com/cinargarage)
-- Website: https://github.com/cinargarage
+github
 
 ---
 
