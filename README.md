@@ -596,26 +596,4 @@ github
 
 Made with ❤️ by cinargarage
 
-</div>
-<script>
-function switchLanguage(lang) {
-  if (lang === 'tr') {
-    document.getElementById('content-tr').style.display = 'block';
-    document.getElementById('content-en').style.display = 'none';
-    localStorage.setItem('preferredLanguage', 'tr');
-  } else {
-    document.getElementById('content-tr').style.display = 'none';
-    document.getElementById('content-en').style.display = 'block';
-    localStorage.setItem('preferredLanguage', 'en');
-  }
-}
-
-// Sayfa yüklendiğinde tercih edilen dili yükle
-document.addEventListener('DOMContentLoaded', function() {
-  const preferredLang = localStorage.getItem('preferredLanguage') || 'tr';
-  switchLanguage(preferredLang);
-});
-</script>
-</div>
-
 
