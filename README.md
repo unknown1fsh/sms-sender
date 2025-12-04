@@ -597,9 +597,6 @@ github
 Made with ❤️ by cinargarage
 
 </div>
-
-</div>
-
 <script>
 function switchLanguage(lang) {
   if (lang === 'tr') {
@@ -619,3 +616,6 @@ document.addEventListener('DOMContentLoaded', function() {
   switchLanguage(preferredLang);
 });
 </script>
+</div>
+
+
